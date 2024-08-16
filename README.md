@@ -33,8 +33,11 @@ V(w, t, g) = F(w, t, g) * S(w, t) * G(w, g)
 Where:
 
 V(w, t, g) is the value of the word w at time t in geographical location g.
+
 F(w, t, g) is the historical frequency of the word w at time t in geographical location g. This is normalized by the total word usage in that location and time.
+
 S(w, t) is the sentiment score of the word w at time t. This score could range from negative to positive, capturing the word's connotation.
+
 G(w, g) is the geographical relevance score of the word w in location g. This score reflects how culturally or contextually significant the word is in that specific location.
 
 Examples:

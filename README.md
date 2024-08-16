@@ -1,6 +1,6 @@
 ![Geo-Historic Word Valuation](https://github.com/user-attachments/assets/113ab541-9d04-4bed-85b0-52c3f0625cc5)
 
-> A new and original text mining and information retrieval method.
+> A new original text mining and information retrieval method.
 
 #
 
